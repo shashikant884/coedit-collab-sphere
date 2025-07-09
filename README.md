@@ -1,22 +1,22 @@
-# Welcome to your Lovable project
+# Welcome to your Middleware  project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2
+**URL**: https://Middleware .dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use Middleware **
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2) and start prompting.
+Simply visit the [Middleware  Project](https://Middleware .dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via Middleware  will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Middleware .
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +62,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2) and click on Share -> Publish.
+Simply open [Middleware ](https://Middleware .dev/projects/df3de99d-20d4-4e4c-9d0f-a63b19c473e2) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my Middleware  project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](https://docs.Middleware .dev/tips-tricks/custom-domain#step-by-step-guide)
